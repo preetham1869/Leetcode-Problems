@@ -20,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
