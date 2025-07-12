@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 ## Recursion
 |  |
 | ------- |
