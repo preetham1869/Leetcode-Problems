@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
