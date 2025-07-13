@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2714-left-and-right-sum-differences](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 ## Trie
 |  |
 | ------- |
