@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Database
 |  |
 | ------- |
