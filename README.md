@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -488,4 +490,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
