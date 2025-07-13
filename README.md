@@ -118,12 +118,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
