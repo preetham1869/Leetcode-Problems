@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2714-left-and-right-sum-differences](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1940-maximum-xor-for-each-query) |
+| [2714-left-and-right-sum-differences](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 ## Trie
 |  |
 | ------- |
