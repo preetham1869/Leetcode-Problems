@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1002-maximum-width-ramp) |
+| [1306-minimum-absolute-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1306-minimum-absolute-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0692-top-k-frequent-words](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0948-sort-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1306-minimum-absolute-difference) |
 ## Backtracking
 |  |
 | ------- |
