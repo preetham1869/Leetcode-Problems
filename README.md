@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
 | ------- |
