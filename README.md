@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Linked List
 |  |
 | ------- |
