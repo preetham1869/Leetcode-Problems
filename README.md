@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2155-find-missing-observations](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 ## Hash Table
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1306-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Backtracking
 |  |
 | ------- |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0948-sort-an-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
 |  |
 | ------- |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Monotonic Stack
 |  |
 | ------- |
