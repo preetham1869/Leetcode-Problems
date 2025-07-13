@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1656-count-good-triplets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1656-count-good-triplets) |
 ## Hash Table
 |  |
 | ------- |
@@ -353,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
