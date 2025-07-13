@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Recursion
 |  |
 | ------- |
