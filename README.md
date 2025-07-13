@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2714-left-and-right-sum-differences](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Trie
 |  |
 | ------- |
