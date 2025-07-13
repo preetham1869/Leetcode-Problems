@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3451-string-compression-iii) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3617-find-the-original-typed-string-i) |
+| [3636-check-balanced-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
