@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3778-transform-array-by-parity](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3778-transform-array-by-parity](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
 ## Backtracking
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3778-transform-array-by-parity](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
 ## Database
 |  |
 | ------- |
