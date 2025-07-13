@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -155,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0183-customers-who-never-order) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
