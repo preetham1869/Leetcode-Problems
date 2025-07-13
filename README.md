@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Combinatorics
 |  |
 | ------- |
