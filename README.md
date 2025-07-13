@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1254-deepest-leaves-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -529,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Graph
+|  |
+| ------- |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
