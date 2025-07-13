@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3778-transform-array-by-parity](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
