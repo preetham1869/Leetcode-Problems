@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0948-sort-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1254-deepest-leaves-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1254-deepest-leaves-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1254-deepest-leaves-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -317,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1285-balance-a-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
