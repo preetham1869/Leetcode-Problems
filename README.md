@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2107-find-unique-binary-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Backtracking
 |  |
 | ------- |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Bucket Sort
 |  |
 | ------- |
