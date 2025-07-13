@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
