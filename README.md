@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
+| [1254-deepest-leaves-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
+| [1254-deepest-leaves-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
+| [1254-deepest-leaves-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1254-deepest-leaves-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
