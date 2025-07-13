@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1837-daily-leads-and-partners) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1892-find-total-time-spent-by-each-employee) |
 ## Sliding Window
 |  |
 | ------- |
