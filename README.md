@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1656-count-good-triplets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
 | ------- |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Database
 |  |
 | ------- |
