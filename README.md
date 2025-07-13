@@ -79,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
