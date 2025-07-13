@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
 | ------- |
