@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1656-count-good-triplets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1656-count-good-triplets) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Linked List
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
