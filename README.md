@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0231-power-of-two) |
