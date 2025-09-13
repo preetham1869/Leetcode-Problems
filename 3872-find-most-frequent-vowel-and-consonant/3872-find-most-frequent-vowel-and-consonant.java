@@ -1,6 +1,6 @@
 class Solution {
     public int maxFreqSum(String s) {
-      String str = "successes", v = "aeiou";
+      String v = "aeiou";
         int[] f = new int[26];
         for (char c : s.toCharArray()) f[c - 'a']++;
         int mv = 0, mc = 0;
