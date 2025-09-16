@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0061-rotate-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
