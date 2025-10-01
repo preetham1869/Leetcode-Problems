@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2155-find-missing-observations) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
