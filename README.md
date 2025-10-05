@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0035-search-insert-position) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0061-rotate-list) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1285-balance-a-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1448-maximum-69-number) |
