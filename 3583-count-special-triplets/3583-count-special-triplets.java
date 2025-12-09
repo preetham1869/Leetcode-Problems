@@ -1,17 +1,21 @@
 class Solution {
     public int specialTriplets(int[] nums) {
-       int MOD = 1_000_000_007;
-        int maxVal = 100_000;
-        int[] left = new int[maxVal + 1];
-        int[] right = new int[maxVal + 1];
-        for (int num : nums) right[num]++;
-        long count = 0;
+        int MOD = 1_000_000_007;
+        Map<Integer, Integer> left = new HashMap<>();
+        Map<Integer, Integer> right = new HashMap<>();
         for (int num : nums) {
-            right[num]--;
-            int ans = num * 2;
-            if (ans <= maxVal)count+=(long)left[ans]*right[ans];
-            left[num]++;
+            right.put(num, right.getOrDefault(num, 0) + 1);
         }
-        return (int) (count % MOD); 
+        long result = 0;
+        for (int x : nums) {
+            right.put(x, right.get(x) - 1);
+            int need = x * 2;
+            long l = left.getOrDefault(need, 0);
+            long r = right.getOrDefault(need, 0);
+            result += l * r;
+
+            left.put(x, left.getOrDefault(x, 0) + 1);
+        }
+        return (int) (result % MOD);
     }
 }
