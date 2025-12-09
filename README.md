@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3583-count-special-triplets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3583-count-special-triplets) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3632-button-with-longest-push-time](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3632-button-with-longest-push-time) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3242-count-elements-with-maximum-frequency](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
+| [3583-count-special-triplets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3583-count-special-triplets) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3583-count-special-triplets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3583-count-special-triplets) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
