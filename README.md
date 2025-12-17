@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3583-count-special-triplets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3583-count-special-triplets) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3632-button-with-longest-push-time](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3632-button-with-longest-push-time) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1013-fibonacci-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Linked List
 |  |
