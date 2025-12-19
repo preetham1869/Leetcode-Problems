@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0075-sort-colors) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
