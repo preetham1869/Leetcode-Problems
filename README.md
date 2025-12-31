@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-sort-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0165-compare-version-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [1002-maximum-width-ramp](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
