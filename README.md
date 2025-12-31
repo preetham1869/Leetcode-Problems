@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2727-number-of-senior-citizens](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2792-neighboring-bitwise-xor) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
