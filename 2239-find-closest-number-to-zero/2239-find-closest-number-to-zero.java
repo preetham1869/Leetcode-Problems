@@ -1,14 +1,11 @@
-class Solution {
-    public int findClosestNumber(int[] nums) {
-        int closest = nums[0];
-        for (int x : nums) {
-            if (Math.abs(x) < Math.abs(closest)) {
-                closest = x;
-            } 
-            else if (Math.abs(x) == Math.abs(closest) && x > closest) {
-                closest = x;
-            }
-        }
-        return closest;
+class Solution
+{
+    public int findClosestNumber(int[] nums)
+    {
+        int res = Integer.MAX_VALUE;
+        for(int i: nums)
+            if(Math.abs(i) < Math.abs(res) || i == Math.abs(res))
+                res = i;
+        return res;
     }
 }
