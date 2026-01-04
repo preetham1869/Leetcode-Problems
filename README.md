@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1153-product-sales-analysis-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1179-game-play-analysis-i) |
+| [1211-queries-quality-and-percentage](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1211-queries-quality-and-percentage) |
 | [1258-article-views-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1301-reformat-department-table) |
 | [1729-find-followers-count](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1729-find-followers-count) |
