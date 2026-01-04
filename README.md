@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1211-queries-quality-and-percentage](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1211-queries-quality-and-percentage) |
 | [1258-article-views-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1301-reformat-department-table) |
+| [1393-capital-gainloss](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1393-capital-gainloss) |
 | [1667-fix-names-in-a-table](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1729-find-followers-count) |
 | [1827-invalid-tweets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1827-invalid-tweets) |
