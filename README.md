@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3778-transform-array-by-parity](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3885-count-special-triplets) |
