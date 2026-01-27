@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1301-reformat-department-table](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1301-reformat-department-table) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1393-capital-gainloss](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1393-capital-gainloss) |
+| [1407-top-travellers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1407-top-travellers) |
 | [1667-fix-names-in-a-table](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1729-find-followers-count) |
 | [1827-invalid-tweets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1827-invalid-tweets) |
