@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0620-not-boring-movies](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0627-swap-salary) |
+| [1075-project-employees-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1075-project-employees-i) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1153-product-sales-analysis-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1153-product-sales-analysis-i) |
