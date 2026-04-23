@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0136-single-number) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
