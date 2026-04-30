@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0930-binary-subarrays-with-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0386-lexicographical-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
