@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
