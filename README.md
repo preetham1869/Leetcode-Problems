@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0165-compare-version-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0387-first-unique-character-in-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1013-fibonacci-number) |
