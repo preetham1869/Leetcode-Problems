@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0415-add-strings) |
 | [2048-build-array-from-permutation](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
