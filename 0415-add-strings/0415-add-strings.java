@@ -4,7 +4,7 @@ class Solution {
         int i=num1.length()-1;
         int j=num2.length()-1;
         int carry=0;
-        while(i>=0||j>=0||carry!=0){
+        while(i>=0||j>=0||carry>0){
             int a=0,b=0;
             if(i>=0)a=num1.charAt(i)-'0';
             if(j>=0)b=num2.charAt(j)-'0';
