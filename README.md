@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0202-happy-number) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0066-plus-one) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0058-length-of-last-word) |
