@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0525-contiguous-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0165-compare-version-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
