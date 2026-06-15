@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1390-four-divisors) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0792-number-of-matching-subsequences](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0792-number-of-matching-subsequences) |
