@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1446-consecutive-characters](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
