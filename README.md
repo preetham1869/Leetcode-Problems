@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0812-rotate-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0933-increasing-order-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1002-maximum-width-ramp) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
