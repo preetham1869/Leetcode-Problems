@@ -1,14 +1,19 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-       Map<Integer,Integer> mp = new HashMap<>();
-        for(int num : nums)mp.put(num, mp.getOrDefault(num,0) + 1);
-        int[] ans = new int[2];
-        int idx = 0;
-        for(int key : mp.keySet()){
-            if(mp.get(key) == 1){
-                ans[idx++] = key;
+       int[] arr=new int[nums.length];
+        int k=0;
+        for(int i=0;i<nums.length;i++){
+            int c=0;
+            for(int j=0;j<nums.length;j++){
+                if(nums[i]==nums[j]){
+                    c++;
+                }
+            }
+            if(c==1){
+              arr[k]=nums[i];
+              k++;
             }
         }
-        return ans; 
+        return Arrays.copyOf(arr,k); 
     }
 }
