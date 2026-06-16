@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0525-contiguous-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0658-find-k-closest-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
