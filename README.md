@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2792-neighboring-bitwise-xor](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2502-sort-the-people](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2792-neighboring-bitwise-xor) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Counting
