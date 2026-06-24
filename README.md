@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1002-maximum-width-ramp](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
