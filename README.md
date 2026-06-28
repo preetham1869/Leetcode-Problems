@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1755-defuse-the-bomb](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1285-balance-a-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1975-maximum-matrix-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
