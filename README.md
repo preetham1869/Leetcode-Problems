@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1940-maximum-xor-for-each-query) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
