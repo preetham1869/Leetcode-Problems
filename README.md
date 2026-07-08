@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3879-find-minimum-log-transportation-cost) |
