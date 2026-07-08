@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1256-rank-transform-of-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1288-remove-covered-intervals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1306-minimum-absolute-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1306-minimum-absolute-difference) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0792-number-of-matching-subsequences](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0792-number-of-matching-subsequences) |
 | [0948-sort-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1288-remove-covered-intervals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1306-minimum-absolute-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
