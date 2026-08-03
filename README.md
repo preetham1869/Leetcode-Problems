@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2032-largest-odd-number-in-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2481-strictly-palindromic-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2525-categorize-box-according-to-criteria) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2232-adding-spaces-to-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2396-strictly-palindromic-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2481-strictly-palindromic-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Brainteaser
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2481-strictly-palindromic-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## String
