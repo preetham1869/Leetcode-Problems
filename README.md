@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0525-contiguous-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0525-contiguous-array) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1285-balance-a-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0645-set-mismatch) |
@@ -708,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -833,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0948-sort-an-array) |
@@ -847,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0948-sort-an-array) |
 ## String Matching
@@ -991,4 +998,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0877-stone-game) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
