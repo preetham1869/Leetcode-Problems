@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1344-angle-between-hands-of-a-clock](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1406-stone-game-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1406-stone-game-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 ## Quickselect
 |  |
 | ------- |
@@ -1040,4 +1044,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
