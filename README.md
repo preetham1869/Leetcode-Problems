@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2416-evaluate-boolean-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
+| [3310-remove-methods-from-project](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Search Tree
 |  |
@@ -1041,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Game Theory
 |  |
 | ------- |
