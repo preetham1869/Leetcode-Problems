@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0792-number-of-matching-subsequences) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0792-number-of-matching-subsequences) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -962,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Enumeration
 |  |
@@ -1022,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Graph
 |  |
