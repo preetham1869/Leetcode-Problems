@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0933-increasing-order-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1002-maximum-width-ramp) |
@@ -982,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
