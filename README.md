@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0705-design-hashset](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0792-number-of-matching-subsequences) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0933-increasing-order-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1002-maximum-width-ramp) |
@@ -980,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1002-maximum-width-ramp) |
 ## Design
 |  |
