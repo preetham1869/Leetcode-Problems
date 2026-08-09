@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3195-separate-black-and-white-balls](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3451-string-compression-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3451-string-compression-iii) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
 | ------- |
@@ -941,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Monotonic Stack
@@ -1002,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Rolling Hash
 |  |
 | ------- |
