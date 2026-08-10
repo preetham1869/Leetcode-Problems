@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1448-maximum-69-number) |
+| [1510-stone-game-iv](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1922-count-good-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1922-count-good-numbers) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0954-maximum-sum-circular-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -1118,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 ## Quickselect
 |  |
 | ------- |
@@ -1131,10 +1134,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -1152,4 +1157,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0901-online-stock-span) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
