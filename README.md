@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1563-stone-game-v](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [1510-stone-game-iv](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1563-stone-game-v) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1922-count-good-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1922-count-good-numbers) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1013-fibonacci-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -1148,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Quickselect
 |  |
