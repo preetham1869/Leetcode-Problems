@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3242-count-elements-with-maximum-frequency](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3583-count-special-triplets) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3705-find-the-largest-almost-missing-integer) |
