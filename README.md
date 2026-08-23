@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1922-count-good-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2029-stone-game-ix) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-sum-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1448-maximum-69-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -1173,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Quickselect
 |  |
