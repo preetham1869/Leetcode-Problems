@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3583-count-special-triplets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3583-count-special-triplets) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3412-permutation-difference-between-two-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3583-count-special-triplets) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3713-longest-balanced-substring-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [1975-maximum-matrix-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Recursion
@@ -809,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1254-deepest-leaves-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [3310-remove-methods-from-project](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -850,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3291-find-if-array-can-be-sorted](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
 |  |
