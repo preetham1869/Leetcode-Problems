@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1002-maximum-width-ramp](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1256-rank-transform-of-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1390-four-divisors) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1563-stone-game-v) |
@@ -947,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1190,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1563-stone-game-v) |
@@ -1208,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1872-stone-game-viii) |
@@ -1215,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1872-stone-game-viii) |
