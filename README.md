@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3875-construct-uniform-parity-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3885-count-special-triplets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3885-count-special-triplets) |
+| [3903-smallest-stable-index-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -980,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3719-longest-balanced-subarray-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Trie
 |  |
 | ------- |
