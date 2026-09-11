@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3583-count-special-triplets) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -1120,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
