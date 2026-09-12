@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Linked List
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3731-find-missing-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3731-find-missing-elements) |
