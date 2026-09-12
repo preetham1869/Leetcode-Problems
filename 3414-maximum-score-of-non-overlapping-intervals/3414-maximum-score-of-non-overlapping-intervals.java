@@ -17,20 +17,19 @@ class Solution {
         int[] prev = new int[n];
 
         for (int i = 0; i < n; i++) {
-            int l = 0, r = i - 1, p = -1;
+            int l = 0, r = i - 1;
+            prev[i] = -1;
 
             while (l <= r) {
                 int m = (l + r) >>> 1;
 
                 if (a[m][1] < a[i][0]) {
-                    p = m;
+                    prev[i] = m;
                     l = m + 1;
                 } else {
                     r = m - 1;
                 }
             }
-
-            prev[i] = p;
         }
 
         Node[][] dp = new Node[5][n + 1];
@@ -43,12 +42,10 @@ class Solution {
                 Node skip = dp[k][i - 1];
                 Node take = null;
 
-                if (dp[k - 1][prev[i - 1] + 1] != null) {
-                    Node p = dp[k - 1][prev[i - 1] + 1];
+                Node p = dp[k - 1][prev[i - 1] + 1];
 
-                    int[] ids = Arrays.copyOf(p.ids, k);
-                    ids[k - 1] = a[i - 1][3];
-                    Arrays.sort(ids);
+                if (p != null) {
+                    int[] ids = insertSorted(p.ids, a[i - 1][3]);
 
                     take = new Node(
                         p.score + a[i - 1][2],
@@ -70,9 +67,33 @@ class Solution {
         return ans.ids;
     }
 
+    private int[] insertSorted(int[] ids, int x) {
+        int n = ids.length;
+        int[] res = new int[n + 1];
+
+        int pos = 0;
+
+        while (pos < n && ids[pos] < x) {
+            res[pos] = ids[pos];
+            pos++;
+        }
+
+        res[pos] = x;
+
+        while (pos < n) {
+            res[pos + 1] = ids[pos];
+            pos++;
+        }
+
+        return res;
+    }
+
     private boolean better(Node a, Node b) {
-        if (a == null) return false;
-        if (b == null) return true;
+        if (a == null)
+            return false;
+
+        if (b == null)
+            return true;
 
         if (a.score != b.score)
             return a.score > b.score;
