@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0792-number-of-matching-subsequences) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0835-image-overlap](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0835-image-overlap](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
