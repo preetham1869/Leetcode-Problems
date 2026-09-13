@@ -17,9 +17,9 @@ class Solution {
         int ans = 0;
         for (int[] a : ones1) {
             for (int[] b : ones2) {
-                int dx = a[0] - b[0];
-                int dy = a[1] - b[1];
-                String key = dx + "," + dy;
+                int x = a[0] - b[0];
+                int y = a[1] - b[1];
+                String key = x + "," + y;
                 int cnt = map.getOrDefault(key, 0) + 1;
                 map.put(key, cnt);
                 ans = Math.max(ans, cnt);
