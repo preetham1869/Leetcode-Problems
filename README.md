@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1013-fibonacci-number) |
@@ -1307,4 +1308,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
