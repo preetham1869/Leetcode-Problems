@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1755-defuse-the-bomb](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-sum-game](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1927-sum-game) |
