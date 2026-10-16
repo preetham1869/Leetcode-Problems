@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2778-sum-of-squares-of-special-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2716-minimize-string-length](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2716-minimize-string-length) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -1276,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Segment Tree
 |  |
 | ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1385,4 +1388,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
