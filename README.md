@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2029-stone-game-ix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [2048-build-array-from-permutation](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2107-find-unique-binary-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
