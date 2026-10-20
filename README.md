@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3875-construct-uniform-parity-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3885-count-special-triplets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3885-count-special-triplets) |
+| [3886-sum-of-sortable-integers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3875-construct-uniform-parity-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3879-find-minimum-log-transportation-cost) |
+| [3886-sum-of-sortable-integers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3731-find-missing-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3886-sum-of-sortable-integers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -1206,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Combinatorics
 |  |
 | ------- |
