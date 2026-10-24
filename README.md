@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2155-find-missing-observations](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [2481-strictly-palindromic-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2525-categorize-box-according-to-criteria) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2409-count-days-spent-together](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2502-sort-the-people](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2502-sort-the-people) |
