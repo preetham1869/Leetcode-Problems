@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1285-balance-a-binary-search-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Math
 |  |
 | ------- |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -836,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2416-evaluate-boolean-binary-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -865,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2416-evaluate-boolean-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -959,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Counting
@@ -1312,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3525-find-x-value-of-array-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -1424,4 +1431,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
