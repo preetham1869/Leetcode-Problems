@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -1132,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1333,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0547-number-of-provinces](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Game Theory
 |  |
 | ------- |
@@ -1432,4 +1435,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
