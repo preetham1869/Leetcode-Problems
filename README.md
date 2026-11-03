@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0415-add-strings) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0645-set-mismatch) |
