@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2714-left-and-right-sum-differences](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
+| [2747-count-zero-request-servers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2747-count-zero-request-servers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2792-neighboring-bitwise-xor) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2502-sort-the-people](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-minimize-string-length](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2716-minimize-string-length) |
+| [2747-count-zero-request-servers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2747-count-zero-request-servers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2747-count-zero-request-servers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1071,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1755-defuse-the-bomb](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2747-count-zero-request-servers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
