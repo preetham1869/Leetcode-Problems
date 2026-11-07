@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3583-count-special-triplets) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3713-longest-balanced-substring-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3291-find-if-array-can-be-sorted](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3731-find-missing-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
@@ -1226,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3195-separate-black-and-white-balls](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
