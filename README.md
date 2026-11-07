@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3834-merge-adjacent-equal-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Preetham1869/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3834-merge-adjacent-equal-elements) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Matrix
 |  |
@@ -1300,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3811-reverse-degree-of-a-string) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3834-merge-adjacent-equal-elements) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Number Theory
 |  |
