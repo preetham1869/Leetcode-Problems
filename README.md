@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3644-minimum-positive-sum-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3665-twisted-mirror-path-count) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
