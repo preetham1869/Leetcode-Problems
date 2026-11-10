@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3693-climbing-stairs-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3705-find-the-largest-almost-missing-integer) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3665-twisted-mirror-path-count](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3693-climbing-stairs-ii) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Linked List
