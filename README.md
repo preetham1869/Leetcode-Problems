@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3830-find-closest-person](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3870-count-commas-in-range](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3870-count-commas-in-range) |
@@ -1242,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Monotonic Stack
 |  |
 | ------- |
