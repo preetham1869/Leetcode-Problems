@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3291-find-if-array-can-be-sorted](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3451-string-compression-iii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3451-string-compression-iii) |
@@ -883,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2416-evaluate-boolean-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -914,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
