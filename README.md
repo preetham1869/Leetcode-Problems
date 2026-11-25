@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3886-sum-of-sortable-integers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3799-unique-3-digit-even-numbers](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3885-count-special-triplets) |
+| [3934-smallest-unique-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1370,12 +1373,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Preetham1869/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Graph
 |  |
 | ------- |
@@ -1526,4 +1531,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Preetham1869/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
